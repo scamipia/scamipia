@@ -8,13 +8,13 @@
 
 #### 🔹 SyncSpace – App móvil para gimnasios
 
-Aplicación desarrollada como proyecto final de tecnicatura. Permite gestionar turnos, clases y suscripciones.
+Aplicación desarrollada como proyecto final de tecnicatura.  
+Permite gestionar turnos, clases y suscripciones, e incluye un sistema de **reconocimiento facial** para el sector de musculación.
 
 - 📱 [Frontend (React Native + Expo)](https://github.com/ariel1105/TIP_GYM_Frontend)
 - 🧠 [Backend (Node.js + MongoDB)](https://github.com/ariel1105/TIP_GYM_Backend)
+- 🤖 [Reconocimiento facial (Python + OpenCV)](https://github.com/scamipia/login-facial-tip)
 - 📚 [Documentación del proyecto](https://github.com/ariel1105/TIP_GYM_Documentacion)
-
----
 
 #### 🔹 TikTok Clon – Proyecto académico (UNQ)
 
