@@ -61,6 +61,7 @@ Proyecto realizado en equipo como parte de la cursada de interfaces de usuario.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=rest&logoColor=white)
 ![Mockito](https://img.shields.io/badge/mockito-25A162?style=for-the-badge&logo=java&logoColor=white)
+
 ---
 
 ### 📫 Contacto
