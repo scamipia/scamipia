@@ -12,15 +12,35 @@ Aplicación desarrollada como proyecto final de tecnicatura.
 Permite gestionar turnos, clases y suscripciones, e incluye un sistema de **reconocimiento facial** para el sector de musculación.
 
 - 📱 [Frontend (React Native + Expo)](https://github.com/ariel1105/TIP_GYM_Frontend)
-- 🧠 [Backend (Node.js + MongoDB)](https://github.com/ariel1105/TIP_GYM_Backend)
+- 🧠 [Backend (Kotlin + Spring)](https://github.com/ariel1105/TIP_GYM_Backend)
 - 🤖 [Reconocimiento facial (Python + OpenCV)](https://github.com/scamipia/login-facial-tip)
 - 📚 [Documentación del proyecto](https://github.com/ariel1105/TIP_GYM_Documentacion)
+
+
 
 #### 🔹 TikTok Clon – Proyecto académico (UNQ)
 
 Proyecto realizado en equipo como parte de la cursada de interfaces de usuario.
 
 - 🎥 [Repositorio principal](https://github.com/unq-ui/2024s1-Grupo06)
+
+
+
+#### 🔹 Mechanus E534 – Simulador académico de epidemias biomecánicas
+
+Proyecto desarrollado en la materia **Estrategias de Persistencia**.  
+Simulador backend de propagación de un virus ficticio que combina elementos biológicos y mecánicos, implementado en diferentes tecnologías de persistencia.
+
+- ⚙️ **Tecnologías utilizadas**: JDBC, Hibernate, Spring, Neo4j, MongoDB, Elasticsearch  
+- 📂 [Repositorio del proyecto](https://github.com/EPERS-UNQ/En_mi_compu_andaba_TP)  
+
+**Entregas destacadas:**
+- Entrega 1: Persistencia con **JDBC**  
+- Entrega 2: ORM con **Hibernate**  
+- Entrega 3: ORM con **Spring**  
+- Entrega 4: NoSQL con **Neo4j**  
+- Entrega 5: NoSQL con **MongoDB**  
+- Entrega 6: NoSQL con **Elasticsearch**  
 
 ---
 
